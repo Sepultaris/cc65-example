@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.vcxproj.filters
+*.vcxproj.user
+.vs
+x64
+src/cc65-example.s
