@@ -55,3 +55,4 @@ dkms.conf
 .vs
 x64
 src/cc65-example.s
+src/cc65-example.nes
